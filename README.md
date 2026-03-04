@@ -4,13 +4,13 @@ Este projeto automatiza o controle de envio de documentos digitalizados, gerando
 
 ## ⚠️ Problemática
 
-No papel de Assistente Comercial, identifiquei um gargalo crítico no fluxo de trabalho: o sistema legado da empresa, utilizado para o escaneamento de listas escolares, não oferece funcionalidades de relatório ou acompanhamento de progresso. 
+No papel de Assistente Comercial, identifiquei um gargalo crítico no fluxo de trabalho: o sistema legado da empresa, utilizado para o escaneamento de listas escolares, não oferece funcionalidades de relatório ou acompanhamento de progresso.
 
 Isso resultava em um processo manual exaustivo de conferência "item a item" para identificar quais escolas haviam entregue os documentos, quais estavam pendentes e o status de cada divulgador. Essa falta de visibilidade gerava insegurança nos dados, risco de erros humanos e uma perda de tempo considerável que poderia ser aplicada em tarefas mais analíticas.
 
 ## ✅ Solução
 
-Para resolver este desafio de forma inovadora e eficiente, utilizei IA para projetar e desenvolver um robô em Python capaz de processar automaticamente grandes volumes de arquivos escaneados. 
+Para resolver este desafio de forma inovadora e eficiente, utilizei IA para projetar e desenvolver um robô em Python capaz de processar automaticamente grandes volumes de arquivos escaneados.
 
 A solução lê os diretórios, extrai metadados diretamente dos nomes dos arquivos (como códigos de entidades e identificação de origem) e utiliza os registros do sistema de arquivos para determinar cronologias de entrega. O resultado é a consolidação automática de todas as informações em um relatório profissional em Excel. Essa automação eliminou totalmente a necessidade de contagem manual, permitindo entregar aos supervisores uma visão clara, precisa e em tempo real da situação atual das entregas.
 
